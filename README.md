@@ -7,7 +7,7 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 
 # Resources / რესურსები
 
-<br><br>
+<br>
 
 **Unity-ის ხელსაწყოები**
   * [Splines](https://github.com/JPBotelho/Splines)
@@ -15,7 +15,7 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [Low Poly Terrain Generator](https://github.com/JPBotelho/Voxel-Terrain)
   * [UnityTile3D](https://github.com/NoelFB/UnityTile3D)
 
-<br><br>
+<br>
 
 **კონტენტის ხელსაწყოები**
   * [Shoebox](http://renderhjs.net/shoebox)
@@ -24,7 +24,7 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [MagicaVoxel](https://ephtracy.github.io)
   * [LMMS](https://lmms.io)
 
-<br><br>
+<br>
 
 **გენერატორები**
   * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator)
@@ -33,14 +33,14 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)
   * [donjon generators](https://donjon.bin.sh)
 
-<br><br>
+<br>
 
 **UI ხელსაწყოები**
   * [nuklear](https://github.com/vurtun/nuklear)
   * [imgui](https://github.com/ocornut/imgui)
   * [microui](https://github.com/rxi/microui)
 
-<br><br>
+<br>
 
 **ძრავები, ფრეიმვორკები და ბიბლიოთეკები**
   * [SDL](https://www.libsdl.org/)
@@ -51,7 +51,7 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [raylib](https://github.com/raysan5/raylib)
   * [Box2D](https://box2d.org/about/)
 
-<br><br>
+<br>
 
 **თამაშები ღია კოდით**
   * [mari0](https://github.com/Stabyourself/mari0)
@@ -65,13 +65,13 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
   * [Celeste player code](https://github.com/NoelFB/Celeste)
 
-<br><br>
+<br>
 
 **საინტერესო სტატიები**
   * [Glitch Fog Of War](http://phidinh.com/rcfog.html)
   * [Bootable Snake in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
 
-<br><br>
+<br>
 
 **სხვა**
   * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks)
