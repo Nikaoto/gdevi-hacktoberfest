@@ -3,18 +3,15 @@
 
 _პრეზენტაციის ვიდეო მალე დაემატება_
 
-[*გდევის Facebook გვერდი*](https://facebook.com/gdevimeetup)
+[**გდევის Facebook გვერდი**](https://facebook.com/gdevimeetup)
 
 # Resources / რესურსები
-
-<br>
 
 **Unity-ის ხელსაწყოები**
 * [Splines](https://github.com/JPBotelho/Splines)
 * [Road Generator](https://github.com/JPBotelho/Unity-Road-Generator)
 * [Low Poly Terrain Generator](https://github.com/JPBotelho/Voxel-Terrain)
 * [UnityTile3D](https://github.com/NoelFB/UnityTile3D)
-
 <br>
 
 **კონტენტის ხელსაწყოები**
@@ -23,7 +20,6 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 * [Blender](https://blender.com)
 * [MagicaVoxel](https://ephtracy.github.io)
 * [LMMS](https://lmms.io)
-
 <br>
 
 **გენერატორები**
@@ -32,14 +28,12 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 * [NeoTextureEdit](http://neotextureedit.sourceforge.net)
 * [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)
 * [donjon generators](https://donjon.bin.sh)
-
 <br>
 
 **UI ხელსაწყოები**
 * [nuklear](https://github.com/vurtun/nuklear)
 * [imgui](https://github.com/ocornut/imgui)
 * [microui](https://github.com/rxi/microui)
-
 <br>
 
 **ძრავები, ფრეიმვორკები და ბიბლიოთეკები**
@@ -50,7 +44,6 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 * [Cocos2D-x](http://www.cocos2d-x.org/)
 * [raylib](https://github.com/raysan5/raylib)
 * [Box2D](https://box2d.org/about/)
-
 <br>
 
 **თამაშები ღია კოდით**
@@ -64,13 +57,11 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 * [Wolfenstein 3D](https://github.com/id-Software/wolf3d)
 * [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
 * [Celeste player code](https://github.com/NoelFB/Celeste)
-
 <br>
 
 **საინტერესო სტატიები**
 * [Glitch Fog Of War](http://phidinh.com/rcfog.html)
 * [Bootable Snake in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
-
 <br>
 
 **სხვა**
@@ -79,7 +70,7 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 * [გდევის თოქები YouTube-ზე](https://www.youtube.com/playlist?list=PLZUDQ5ngtNAGQk7cXF3CAisysOG8rFiZ_)
 
 
-## reveal.js
+# reveal.js
 პრეზენტაცია დამზადებულია [reveal.js](https://github.com/hakimel/reveal.js) ფრეიმვორკით, რომელიც თავისუფალი და უფასო სოფტია.
 
 `index.html` შეიცავს პრეზენტაციის მარკაპსა და დეტალებს.
