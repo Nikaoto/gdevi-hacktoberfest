@@ -68,15 +68,15 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks)
 * [magictools](https://github.com/ellisonleao/magictools)
 * [გდევის თოქები YouTube-ზე](https://www.youtube.com/playlist?list=PLZUDQ5ngtNAGQk7cXF3CAisysOG8rFiZ_)
+<br>
 
-
-# reveal.js
+### reveal.js
 პრეზენტაცია დამზადებულია [reveal.js](https://github.com/hakimel/reveal.js) ფრეიმვორკით, რომელიც თავისუფალი და უფასო სოფტია.
 
 `index.html` შეიცავს პრეზენტაციის მარკაპსა და დეტალებს.
 
-## პრეზენტაციები
 
+## Presentations / პრეზენტაციები
 სხვა წარდგენილი პრეზენტაციების PDF-ები და ვიდეოები მალე დაემატება და აქ დავლინკავ შესაბამის Facebook პოსტსა და ჩამოსაწერ ლინკებს.
 
 ## License / ლიცენზია
