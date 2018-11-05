@@ -7,32 +7,42 @@ _პრეზენტაციის ვიდეო მალე დაემ�
 
 # Resources / რესურსები
 
-*Unity-ის ხელსაწყოები*
+<br><br>
+
+**Unity-ის ხელსაწყოები**
   * [Splines](https://github.com/JPBotelho/Splines)
   * [Road Generator](https://github.com/JPBotelho/Unity-Road-Generator)
   * [Low Poly Terrain Generator](https://github.com/JPBotelho/Voxel-Terrain)
   * [UnityTile3D](https://github.com/NoelFB/UnityTile3D)
-      
-*კონტენტის ხელსაწყოები*
+
+<br><br>
+
+**კონტენტის ხელსაწყოები**
   * [Shoebox](http://renderhjs.net/shoebox)
   * [SpriteSheetPacker](https://github.com/nickgravelyn/SpriteSheetPacker)
   * [Blender](https://blender.com)
   * [MagicaVoxel](https://ephtracy.github.io)
   * [LMMS](https://lmms.io)
-            
-*გენერატორები	  *
+
+<br><br>
+
+**გენერატორები**
   * [Alchemy-Circles-Generator](https://github.com/CiaccoDavide/Alchemy-Circles-Generator)
   * [FracPlanet](https://sourceforge.net/projects/fracplanet)
   * [NeoTextureEdit](http://neotextureedit.sourceforge.net)
   * [SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator)
   * [donjon generators](https://donjon.bin.sh)
-      
-*UI ხელსაწყოები*
+
+<br><br>
+
+**UI ხელსაწყოები**
   * [nuklear](https://github.com/vurtun/nuklear)
   * [imgui](https://github.com/ocornut/imgui)
   * [microui](https://github.com/rxi/microui)
-      
-*ძრავები, ფრეიმვორკები და ბიბლიოთეკები*
+
+<br><br>
+
+**ძრავები, ფრეიმვორკები და ბიბლიოთეკები**
   * [SDL](https://www.libsdl.org/)
   * [SFML](https://www.sfml-dev.org/)
   * [rltk - roguelike C++ engine](https://github.com/thebracket/rltk)
@@ -41,7 +51,9 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [raylib](https://github.com/raysan5/raylib)
   * [Box2D](https://box2d.org/about/)
 
-*თამაშები ღია კოდით*
+<br><br>
+
+**თამაშები ღია კოდით**
   * [mari0](https://github.com/Stabyourself/mari0)
   * [angband](https://github.com/angband/angband)
   * [NetHack](https://github.com/NetHack/NetHack)
@@ -53,11 +65,15 @@ _პრეზენტაციის ვიდეო მალე დაემ�
   * [Canabalt iOS](https://github.com/ericjohnson/canabalt-ios)
   * [Celeste player code](https://github.com/NoelFB/Celeste)
 
-*საინტერესო სტატიები*
+<br><br>
+
+**საინტერესო სტატიები**
   * [Glitch Fog Of War](http://phidinh.com/rcfog.html)
   * [Bootable Snake in a tweet](https://www.quaxio.com/bootable_cd_retro_game_tweet/)
-      
-*სხვა*
+
+<br><br>
+
+**სხვა**
   * [awesome-gametalks](https://github.com/hzoo/awesome-gametalks)
   * [magictools](https://github.com/ellisonleao/magictools)
   * [გდევის თოქები YouTube-ზე](https://www.youtube.com/playlist?list=PLZUDQ5ngtNAGQk7cXF3CAisysOG8rFiZ_)
