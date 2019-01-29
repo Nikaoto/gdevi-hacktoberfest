@@ -77,7 +77,9 @@
 
 
 ## Presentations / პრეზენტაციები
-სხვა წარდგენილი პრეზენტაციების PDF-ები და ვიდეოები მალე დაემატება და აქ დავლინკავ შესაბამის Facebook პოსტსა და ჩამოსაწერ ლინკებს.
+პრეზენტაციები შეგიძლიათ ნახოთ YouTube-ზე. [ამ პოსტში](https://www.facebook.com/gdevimeetup/posts/286298375350451) არის სამივე თოქის ვიდეო თავმოყრილი.
+
+პრეზენტაციების ფაილები შეგიძლიათ ჩამოიწეროთ [ამ ლინკიდან](https://drive.google.com/drive/folders/1YE_HSFjbSmTS7OPHrTXHZoc7_aDcjk94?fbclid=IwAR0RbVDpFPNzLMOUwllj0GTggEazZqoYpJ5TsQrmzPmuzMdOymIgN1cd3Sg)
 
 ## License / ლიცენზია
 MIT Licensed
