@@ -77,7 +77,7 @@
 
 
 ## Presentations / პრეზენტაციები
-პრეზენტაციები შეგიძლიათ ნახოთ YouTube-ზე. [ამ პოსტში](https://www.facebook.com/gdevimeetup/posts/286298375350451) არის სამივე თოქის ვიდეო თავმოყრილი.
+[ამ პოსტში](https://www.facebook.com/gdevimeetup/posts/286298375350451) არის სამივე თოქის ვიდეო თავმოყრილი, რომლებიც გდევის YouTube არხზეა ატვირთული.
 
 პრეზენტაციების ფაილები შეგიძლიათ ჩამოიწეროთ [ამ ლინკიდან](https://drive.google.com/drive/folders/1YE_HSFjbSmTS7OPHrTXHZoc7_aDcjk94?fbclid=IwAR0RbVDpFPNzLMOUwllj0GTggEazZqoYpJ5TsQrmzPmuzMdOymIgN1cd3Sg)
 
