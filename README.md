@@ -3,6 +3,8 @@
 
 [**პრეზენტაციის ვიდეო**](https://youtu.be/T1hKY0VIhkw)
 
+[**პრეზენტაციის PDF**](Hacktoberfest-for-Game-Developers.pdf)
+
 [**გდევის Facebook გვერდი**](https://facebook.com/gdevimeetup)
 
 # Resources / რესურსები
